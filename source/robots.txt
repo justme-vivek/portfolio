@@ -10,4 +10,4 @@ Allow: /README.md
 Allow: /LICENSE
 
 # Sitemap
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://vivekmishra.vercel.app/sitemap.xml
