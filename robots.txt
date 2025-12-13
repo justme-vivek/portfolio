@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Disallow access to the source directory if not intended for public access
+Disallow: /source/
+
+# Allow access to main files
+Allow: /index.html
+Allow: /README.md
+Allow: /LICENSE
+
+# Sitemap
+Sitemap: https://yourdomain.com/sitemap.xml
